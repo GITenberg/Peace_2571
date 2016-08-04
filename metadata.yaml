@@ -1,0 +1,36 @@
+_repo: Peace_2571
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Aristophanes
+    aliases:
+    - Αριστοφάνης
+    - Ἀριστοφάνης
+    birthdate: -450
+    deathdate: -388
+    gutenberg_agent_id: '965'
+    url: http://www.gutenberg.org/2009/agents/965
+    wikipedia: http://en.wikipedia.org/wiki/Aristophanes
+description: V.1. The Acharnians, Kinghts, Clouds, Wasps, Peace, and Birds. -- v.2.
+  Lysistrata, the Thesmophoriazusæ, Frogs, Ecclesiazusæ, and Plutus.
+gutenberg_bookshelf:
+- One Act Plays
+- Classical Antiquity
+gutenberg_issued: '2001-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2571'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PA'
+- !lcsh 'Aristophanes -- Translations into English'
+- !lcsh 'Greece -- History -- Peloponnesian War, 431-404 B.C. -- Drama'
+- !lcsh 'Comedies'
+- !lcsh 'Peace treaties -- Drama'
+- !lcsh 'Greek drama (Comedy) -- Translations into English'
+- GITenberg
+title: Peace
+url: http://www.gutenberg.org/ebooks/2571
